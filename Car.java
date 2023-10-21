@@ -3,4 +3,5 @@ class Car {
     String color;
     int year;
     double price;
+    String madeFrom;
 }

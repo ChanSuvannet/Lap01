@@ -3,4 +3,5 @@ class Employee {
     int id;
     String position;
     double salary;
+    int timeWork;
 }
